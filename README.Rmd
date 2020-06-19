@@ -1,0 +1,14 @@
+---
+title: "README"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- badges: start -->
+[![R build status](https://github.com/konradzdeb/DashboardBootstrap/workflows/R-CMD-check/badge.svg)](https://github.com/konradzdeb/DashboardBootstrap/actions)
+<!-- badges: end -->
+  
+Using `bootstraplib` within `shinydashboard`
