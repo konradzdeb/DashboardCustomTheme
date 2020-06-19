@@ -44,7 +44,7 @@ usethis::use_test( "app" )
 # Documentation
 
 ## Vignette ----
-usethis::use_vignette("DashboardBootstrap")
+usethis::use_vignette("DashboardCustomTheme")
 devtools::build_vignettes()
 
 ## Code coverage ----

@@ -1,4 +1,4 @@
-Package: DashboardBootstrap
+Package: DashboardCustomTheme
 Title: Shinydashboard with Bootstraplib
 Version: 0.0.0.9000
 Authors@R: person('Konrad', 'Zdeb', email = 'konrad.zdeb@me.com', role = c('cre', 'aut'))
@@ -16,5 +16,5 @@ LazyData: true
 RoxygenNote: 7.1.0
 Depends: 
     shinydashboard
-URL: https://github.com/konradzdeb/DashboardBootstrap
-BugReports: https://github.com/konradzdeb/DashboardBootstrap/issues
+URL: https://github.com/konradzdeb/DashboardCustomTheme
+BugReports: https://github.com/konradzdeb/DashboardCustomTheme/issues

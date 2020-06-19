@@ -14,13 +14,13 @@
 ## Fill the DESCRIPTION ----
 ## Add meta data about your application
 golem::fill_desc(
-  pkg_name = "DashboardBootstrap",
+  pkg_name = "DashboardCustomTheme",
   pkg_title = "Shinydashboard with Bootstraplib",
   pkg_description = "PKG_DESC.",
   author_first_name = "Konrad",
   author_last_name = "Zdeb",
   author_email = "konrad.zdeb@me.com",
-  repo_url = "https://github.com/konradzdeb/DashboardBootstrap"
+  repo_url = "https://github.com/konradzdeb/DashboardCustomTheme"
 )
 
 ## Set {golem} options ----
